@@ -8,7 +8,7 @@
     "dev": "nuxt",
     "api": "json-server --watch ./db.json --port 8080",
     "build": "nuxt build",
-    "start": "nuxt start npm run api",
+    "start": "nuxt start",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
